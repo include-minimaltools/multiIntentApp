@@ -2,4 +2,11 @@
     <string name="app_name">multiIntentApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Bottom Navigation Menu -->
+    <string name="bottom_nav_menu_home">Inicio</string>
+    <string name="bottom_nav_menu_news">Noticias</string>
+    <string name="bottom_nav_menu_items">Elementos</string>
+    <string name="bottom_nav_menu_events">Eventos</string>
+
 </resources>
